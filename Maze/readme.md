@@ -7,3 +7,5 @@ analog circuit based on obstacles (shapes) shown in the visual field. The search
 modulation of sound. This modulation is influenced by the length of the detected path (and potentially other features 
 not developed by the end of the project, i.e. number of turns, direction, etc..).
 
+![Image] (/screen_1.png)
+
